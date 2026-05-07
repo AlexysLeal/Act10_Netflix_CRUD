@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039693334717",
+    "project_id": "netflixcrudproyectonava",
+    "storage_bucket": "netflixcrudproyectonava.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039693334717:android:a5fc02e417491b24694fd4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcqjJPxlJQP0IBJyTvjywoyg_3YHHhJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039693334717:android:bb4a3ab39af9fcdc694fd4",
+        "android_client_info": {
+          "package_name": "com.netflix.admin.xflutteralexis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcqjJPxlJQP0IBJyTvjywoyg_3YHHhJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
